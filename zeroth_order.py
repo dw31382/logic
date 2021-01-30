@@ -37,7 +37,7 @@ def ncim(a, b):
   if (a == False) and (b == False):
     return(False)
 
-def nota(a, b):
+def not_a(a, b):
   if (a == True) and (b == True):
     return(False)
   if (a == True) and (b == False):
@@ -57,7 +57,7 @@ def nim(a, b):
   if (a == False) and (b == False):
     return(False)
 
-def notb(a, b):
+def not_b(a, b):
   if (a == True) and (b == True):
     return(False)
   if (a == True) and (b == False):
