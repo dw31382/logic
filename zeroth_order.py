@@ -107,7 +107,7 @@ def iff(a, b):
   if (a == False) and (b == False):
     return(True)
         
-def q_(a, b):
+def b_(a, b):
   if (a == True) and (b == True):
     return(True)
   if (a == True) and (b == False):
@@ -166,3 +166,4 @@ def tau(a, b):
     return(True)
   if (a == False) and (b == False):
     return(True)
+
